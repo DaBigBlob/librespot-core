@@ -9,7 +9,7 @@ repository = "https://github.com/librespot-org/librespot"
 edition = "2018"
 
 [dependencies.librespot-protocol]
-path = "../protocol"
+git = "https://github.com/DaBigBlob/librespot-protocol"
 version = "0.4.2"
 
 [dependencies]
